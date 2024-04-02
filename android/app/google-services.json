@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088441739555",
+    "project_id": "suvidhaoverseas-c344a",
+    "storage_bucket": "suvidhaoverseas-c344a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088441739555:android:faf58ccb6e3978773fc496",
+        "android_client_info": {
+          "package_name": "com.example.suvidhaoverseas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-MtjJERyIgfcdZNC6F9ZJFJocsvwJIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
